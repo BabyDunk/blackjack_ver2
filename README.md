@@ -1,7 +1,7 @@
 # blackjack_ver2
 Simple BlackJack text based game
 
-*### Object Oriented Version *
+*Object Oriented Version*
 
 
 ### How to play:
